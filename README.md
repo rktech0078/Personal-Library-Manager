@@ -21,7 +21,7 @@ To use the Personal Library Manager, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/personal-library-manager.git
+   git clone https://github.com/rktech0078/Personal-Library-Manager
    cd personal-library-manager
    ```
 
