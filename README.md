@@ -77,13 +77,3 @@ This project is licensed under the **MIT License**.
 ---
 🚀 Enjoy managing your book collection with **Personal Library Manager!**
 
-# 👋 Hi, I'm Abdul Rafay Khan!  
-![GitHub followers](https://img.shields.io/github/followers/rktech0078?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/rktech0078?style=social)  
-![GitHub contributions](https://img.shields.io/github/contributors/rktech0078?style=plastic)  
-![GitHub repo size](https://img.shields.io/github/repo-size/rktech0078?style=flat)  
-![GitHub License](https://img.shields.io/github/license/rktech0078?style=flat)  
-
-🔹 **GitHub Profile:** [rktech0078](https://github.com/rktech0078)  
-
-
