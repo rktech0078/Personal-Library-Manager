@@ -1,4 +1,4 @@
-import Mongo_streamlit as st
+import streamlit as st
 from pymongo import MongoClient 
 from dotenv import load_dotenv
 import bcrypt
