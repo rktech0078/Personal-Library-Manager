@@ -46,7 +46,7 @@ streamlit run app.py
 
 ### 5️⃣ Live Demo:
 Check out the **live version** of the app:
-🔗 [Personal Library Manager](https://rafay-library-manager.streamlit.app/)
+🔗 [Personal Library Manager](https://db-library-manager.streamlit.app/)
 
 ## How It Works
 ### 🔐 User Authentication
